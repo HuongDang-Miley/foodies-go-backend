@@ -1,0 +1,1027 @@
+{
+    "html_attributions": [],
+    "next_page_token": "ATtYBwIl0hOR7rOjBbB5xKnThGr-SCm3ZJ426UOSIiiSD3qe4qB3svlIkVNcAcHAueFOUVjK3L40sIHjdMQce_R5PC0OMYEmrhWIAZniRa3K6tT9T6qmbPTYMSTXCreISig1UTfZsKVPgO5rnAFavg469qmtqc-4YZBC9o7Pp2B0UjTsuJtfpgThMmf3X_2j4Iz9bXxq2QKNne9H6Q6eIDggG2ffmLoCEdoA_YqgoyZzHUaQ7nE2dLqL_hKU2ZP0kTUx5zc-6KkhxNUj6DiiuAZ9vKupYcxPzf6pJyoG4EzR7uJD-iPSRbnpnr4RXnc1jgI0sA7svxDIqCY3YlR4b6oFI-cOIMH9O6PKaSMT_fCefxw9I4kloz3-Ngg087rSMafxpVNkzsg72JY6KkNQkZmhp-_2p0Kj5hkH2Y0TnPCqEEMbAbe2LEOgo67oAxwq0aS4V6mW",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 40.7481412,
+                    "lng": -73.98564189999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.74965477989272,
+                        "lng": -73.98472262010728
+                    },
+                    "southwest": {
+                        "lat": 40.74695512010727,
+                        "lng": -73.98742227989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Sushi-teria",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1018,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118203340974319879918\">Sushi-teria Empire State Building</a>"
+                    ],
+                    "photo_reference": "ATtYBwI8DmpXeiPTBTn4FaruGSvJ0_pkc3TyPWbv87CJ3DvZnTR_y8nFAPUq_kEmQ6mk8_7FArK5L6OugPkcRUu2-f_Cu06_9PP34UjoEhuAJe2aLiuxjEd34W8AOfewn0Gdh1qVhW37KMGUH0rHwRXwgNKMTZLlMY3_xw4kOkpK5x51S2oI",
+                    "width": 1526
+                }
+            ],
+            "place_id": "ChIJpVaWpqlZwokRyrQ_APAC2N0",
+            "plus_code": {
+                "compound_code": "P2X7+7P New York, United States",
+                "global_code": "87G8P2X7+7P"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJpVaWpqlZwokRyrQ_APAC2N0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 144,
+            "vicinity": "15 W 33rd St, New York"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.7386556,
+                    "lng": -74.0296389
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.74000542989273,
+                        "lng": -74.02828907010728
+                    },
+                    "southwest": {
+                        "lat": 40.73730577010728,
+                        "lng": -74.03098872989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Sushi Lounge",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100966847628844441358\">Magna Gopal</a>"
+                    ],
+                    "photo_reference": "ATtYBwJXP7kugSalTP4RpPrcRC3Qm76wn_6X2_00Glx-hbNIjzctmQA5MQWiaG_GlLQUs_YxUXQMGo4AWBetmA2Iz6u6V6Aaeyrx1-6_VmOq9wxzPpq6ltfRXDQK-unr3oY396OT07l6lmf-JIilTSwJzb9uVOnyhicqOzZDJ2ZuSlBB22-B",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJiw2E3OFZwokRO0K8w8WyomY",
+            "plus_code": {
+                "compound_code": "PXQC+F4 Hoboken, New Jersey, United States",
+                "global_code": "87G7PXQC+F4"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJiw2E3OFZwokRO0K8w8WyomY",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 424,
+            "vicinity": "200 Hudson St, Hoboken"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.7483656,
+                    "lng": -73.97520899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.74982077989272,
+                        "lng": -73.97378547010727
+                    },
+                    "southwest": {
+                        "lat": 40.74712112010728,
+                        "lng": -73.97648512989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Sushi Ryusei",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116889949762192180910\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATtYBwK7wQbJh-wtpl_XtWauA_6WZg4pUOdLRb86TLgesIAwUivHkAwPXCATKxVmdXmj5q_Ego7WDKubupTc_GJSYBkhRLjrCbZCU0XYMN7NnaA2NptHs-l5IDK9Anwq_OpskSPnpdPMf5aPwwPkkI51qKQslVMChqQ6y4NdvoUzsR-yIQiY",
+                    "width": 1510
+                }
+            ],
+            "place_id": "ChIJqTLS3nJZwokRGdkiM6Hj-BU",
+            "plus_code": {
+                "compound_code": "P2XF+8W New York, United States",
+                "global_code": "87G8P2XF+8W"
+            },
+            "rating": 4.7,
+            "reference": "ChIJqTLS3nJZwokRGdkiM6Hj-BU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 115,
+            "vicinity": "216 E 39th St, New York"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.70587150000001,
+                    "lng": -74.0129819
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.70727922989271,
+                        "lng": -74.01173862010728
+                    },
+                    "southwest": {
+                        "lat": 40.70457957010727,
+                        "lng": -74.01443827989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Bento Sushi",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113380557268978567346\">Rafa Sanchez</a>"
+                    ],
+                    "photo_reference": "ATtYBwJN5sHrlbPH6U47q__ebmZqThc788hB2f1PtMVMRNf80ePTdh7ucvSidF9_cW-2SpNXsYw0r5nfT_x1JqpP_KWnDHwXnOGLz6-c4xImlZWTtikKZatgjRz-2rt7diEvGGE3JEsVYoYWF3DVRQgkcuYfBO12nUjfKtilJmQFpPj0m8uY",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJRV992hlawokRp6SxCF0RAd4",
+            "plus_code": {
+                "compound_code": "PX4P+8R New York, United States",
+                "global_code": "87G7PX4P+8R"
+            },
+            "price_level": 1,
+            "rating": 3.6,
+            "reference": "ChIJRV992hlawokRp6SxCF0RAd4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 248,
+            "vicinity": "32 Broadway, New York"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.73178679999999,
+                    "lng": -74.00453619999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.73309462989273,
+                        "lng": -74.00316387010727
+                    },
+                    "southwest": {
+                        "lat": 40.73039497010728,
+                        "lng": -74.00586352989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Sushi Nakazawa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117477864901653366859\">J.</a>"
+                    ],
+                    "photo_reference": "ATtYBwLf2lZWC-_ZNyJZ-eloNB81JUKVfkwgLZAKzfLhNRnA2fpRbYaXrI9J3CRfvkLWhCUE6bBvn95Xnb9ES10tn9qkV7OlQ4Et0EtRtApB2z1alHZU5gFlm7AOOleDUVFjZ00YoRSkHhMCp_jYU4yqH4K-F38Qj-uvDXP-p97eSlGjUR-k",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJsw80F5NZwokRcDtxajLLOeA",
+            "plus_code": {
+                "compound_code": "PXJW+P5 New York, United States",
+                "global_code": "87G7PXJW+P5"
+            },
+            "price_level": 4,
+            "rating": 4.6,
+            "reference": "ChIJsw80F5NZwokRcDtxajLLOeA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 992,
+            "vicinity": "23 Commerce St, New York"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.7336167,
+                    "lng": -73.82495
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.73486412989272,
+                        "lng": -73.82355707010728
+                    },
+                    "southwest": {
+                        "lat": 40.73216447010728,
+                        "lng": -73.82625672989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Sushi Tokyo",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 374,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109026062626816521881\">Sushi Tokyo</a>"
+                    ],
+                    "photo_reference": "ATtYBwLs96nMfCTaqNKPwo07_UGPj78UopPGF1L3wi4haarCBTEQSlbTGPQ3q4NC3jH_uD7FTwJLU3M6DG6dVudh2BX8eEf-y_AGbI_CwMnj-UYnvKvyxxGKyb9wM-TGpUy0o-isxA3AkG_gJq0JI6ZOpiN9FKGkWRuIK8YwHoSnEC-iQlV_",
+                    "width": 663
+                }
+            ],
+            "place_id": "ChIJcU6QF2JgwokRBM92COYIZtE",
+            "plus_code": {
+                "compound_code": "P5MG+C2 Flushing, Queens, NY, United States",
+                "global_code": "87G8P5MG+C2"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJcU6QF2JgwokRBM92COYIZtE",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_delivery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 213,
+            "vicinity": "67-25 Main St, Flushing"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.715473,
+                    "lng": -74.03611599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.71685112989272,
+                        "lng": -74.03468047010728
+                    },
+                    "southwest": {
+                        "lat": 40.71415147010728,
+                        "lng": -74.03738012989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Honshu",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100387556231881850588\">Raymond Liu</a>"
+                    ],
+                    "photo_reference": "ATtYBwKcW18ejc7HAYc89Z7qWjPqhpAo4FfHtrpAzSJaYnNDUSmqMz8um4Qcmieo9GadOZb2LX2yaRk5Yg732iioDazy_Byno2IG-7L64a4E988UMW4XAhu7f9KfgRU8kqCpD_5Hg21Vi07rq4f6stqqKtcWnouZNq2wBI3HjbSs1Tctn_ZH",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJgXR_NKlQwokR9uRHA0vNKDs",
+            "plus_code": {
+                "compound_code": "PX87+5H Jersey City, New Jersey, United States",
+                "global_code": "87G7PX87+5H"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJgXR_NKlQwokR9uRHA0vNKDs",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_delivery",
+                "meal_takeaway",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 700,
+            "vicinity": "95 Greene St, Jersey City"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.7524772,
+                    "lng": -73.9884826
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.75382702989273,
+                        "lng": -73.98713277010727
+                    },
+                    "southwest": {
+                        "lat": 40.75112737010729,
+                        "lng": -73.98983242989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Beyond Sushi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113726556577540194093\">Shashi Kiran</a>"
+                    ],
+                    "photo_reference": "ATtYBwLdvGu2xwcZ8Vs0a19R6NIsVGw7hSzug8_1wTqxoWqZ8pb2u7P8Og9pucXfN0k_YH2wnDLFfj4QJOQuNPgLvCVG5rom9NlUWKNT1xT3p6DhZHUfsA1-meKGWOpZq4v0cm9W-b6jgiASmeK63dzL7Gc5XygDFX0IxORwylshKo_MRxyQ",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJPy94jKtZwokRRODqoL09Acw",
+            "plus_code": {
+                "compound_code": "Q226+XJ New York, United States",
+                "global_code": "87G8Q226+XJ"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJPy94jKtZwokRRODqoL09Acw",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1365,
+            "vicinity": "134 W 37th St, New York"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.7100042,
+                    "lng": -74.0101588
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.71135402989271,
+                        "lng": -74.00880897010728
+                    },
+                    "southwest": {
+                        "lat": 40.70865437010727,
+                        "lng": -74.01150862989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Bento Sushi",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111208929323853863219\">julian yue</a>"
+                    ],
+                    "photo_reference": "ATtYBwJTnieX0vxt0ujE2wOqL9zEx1ArgjX0FU1yuhn0SLm2sYyixZDHtB9RiUmQMfkEPrbM64pu0CeXB-Z-0fPdfAaMfw42MAZzDVYN3_QG7jAobrNjwFDBI7NU1phSwfmUQXi7IV6A4cB4WqrZvCTw7Cws_ZmaAaKpT8FviG8GRPt_fYyl",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJOXpM1hlawokREfRUP5-MzSU",
+            "plus_code": {
+                "compound_code": "PX6Q+2W New York, United States",
+                "global_code": "87G7PX6Q+2W"
+            },
+            "price_level": 1,
+            "rating": 3.8,
+            "reference": "ChIJOXpM1hlawokREfRUP5-MzSU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 442,
+            "vicinity": "173 Broadway, New York"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 40.7515697,
+                    "lng": -73.9734927
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.75291952989271,
+                        "lng": -73.97214287010728
+                    },
+                    "southwest": {
+                        "lat": 40.75021987010727,
+                        "lng": -73.97484252989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Bento Sushi",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118351558351330382245\">Caro Pingel</a>"
+                    ],
+                    "photo_reference": "ATtYBwJ-3fpNvcAdqmzojbtDdvBfacShx0QRblZ8hsVuv6D-qV_QpjxwUEwVtjxGCC4K0l4RAYAW_DUNPl-XTTOP87IBU2S8JO2iyWUY6yThQD64pplEYCj8EUg2ekrkxBmuHzTQj1GrEfGUWzB-2qVM6Q9P1CFiZP-8EDIWDZvDJLCSIHO6",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJKWB5_AJZwokR832Mqnvc-1U",
+            "plus_code": {
+                "compound_code": "Q22G+JJ New York, United States",
+                "global_code": "87G8Q22G+JJ"
+            },
+            "rating": 3.9,
+            "reference": "ChIJKWB5_AJZwokR832Mqnvc-1U",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 99,
+            "vicinity": "685 3rd Ave, New York"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.71949559999999,
+                    "lng": -73.8433435
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.72089932989272,
+                        "lng": -73.84195762010728
+                    },
+                    "southwest": {
+                        "lat": 40.71819967010727,
+                        "lng": -73.84465727989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "A Sushi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107223433083594463936\">Mike Lopez</a>"
+                    ],
+                    "photo_reference": "ATtYBwKtA_7sDvvwU0XxynZOK34XrNIzXJE8uNiM_Q1QCSlaWXz9WQ5TjwZIJ5t1I5J2z3vkxyHiqWCj4tdTyeVdCkRreuEH7cMJKPlh06cQLRkB01c7Zpsc7QS44YrQudRrnJHeexcbtodPtiSaIzbGBT2reriWFK4VHwSK3938zhhvezRz",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJafL8xSBewokR4NU1bE9r-xQ",
+            "plus_code": {
+                "compound_code": "P594+QM New York, United States",
+                "global_code": "87G8P594+QM"
+            },
+            "rating": 4,
+            "reference": "ChIJafL8xSBewokR4NU1bE9r-xQ",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_delivery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 91,
+            "vicinity": "71-44 Austin St, Queens"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.7511139,
+                    "lng": -73.97350829999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.75251842989272,
+                        "lng": -73.97211797010728
+                    },
+                    "southwest": {
+                        "lat": 40.74981877010728,
+                        "lng": -73.97481762989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Sushi Yasuda",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104699767077104678754\">Matthew Hanagan</a>"
+                    ],
+                    "photo_reference": "ATtYBwL9uPLB3F9hgZYF6AIE2HQTZeu3HrB3NCn3fDpb8dO0-IkQgpzXC5CKRCh5ZFQeaBbHskIMN5dulnusV2bCozoRMGgtAvsa0OSPmY8QqEYkDNFbxXoHh6UuD01GubaGtdUoxFdDC9n3aNyEMmmrSquZpyHY0zM-GbgYU6WiMIhjjOLY",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ0Zb6HANZwokRnGIntPyqjLQ",
+            "plus_code": {
+                "compound_code": "Q22G+CH New York, United States",
+                "global_code": "87G8Q22G+CH"
+            },
+            "price_level": 4,
+            "rating": 4.4,
+            "reference": "ChIJ0Zb6HANZwokRnGIntPyqjLQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1093,
+            "vicinity": "204 E 43rd St, New York"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.73292,
+                    "lng": -73.98588409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.73420372989272,
+                        "lng": -73.98458267010727
+                    },
+                    "southwest": {
+                        "lat": 40.73150407010727,
+                        "lng": -73.98728232989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Beyond Sushi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 655,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115076861954284504726\">Anton Volkov</a>"
+                    ],
+                    "photo_reference": "ATtYBwI9LcuzG13zfQ9F92G7cfWz_Z2JJvTcO2psP4ohxp9MvR6xtoNt458IevOkpZ2MKHmNI2W_hierUpdXm4vtqyV5iQR58dC1cLuD4nXr2bih0An4ZuI1tkFWkS7bDkcXcIA8pftIEg1IZMi6RaOn8xxDXw3WesEJQ7-c5dt-B2pxSvns",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJM8a5-J5ZwokRZDE8G2tHuhg",
+            "plus_code": {
+                "compound_code": "P2M7+5J New York, United States",
+                "global_code": "87G8P2M7+5J"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJM8a5-J5ZwokRZDE8G2tHuhg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 515,
+            "vicinity": "229 E 14th St, New York"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.76165220000001,
+                    "lng": -73.97021509999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.76293057989272,
+                        "lng": -73.96900797010727
+                    },
+                    "southwest": {
+                        "lat": 40.76023092010728,
+                        "lng": -73.9717076298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Nare Sushi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 561,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115657791351661009782\">Nare Sushi</a>"
+                    ],
+                    "photo_reference": "ATtYBwJT5l_68WKid9TSp9LjZiIEfBmy0-hf3GGgMvLyx0O5bIRw95nUS9ZsGH_CWdnH5UrjlEMTww3h4o2kr-6wR3d-wd2FHF7XfDVuG5dDH1CZD4IzbcyesyrOf1ZGAbLjw4O33wGNAEGuI6wQkd6SnOl7Nz7iJzaK5HNA9RdUP2K24Emf",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJ3VhbOeVYwokRck8jQGsiwec",
+            "plus_code": {
+                "compound_code": "Q26H+MW New York, United States",
+                "global_code": "87G8Q26H+MW"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJ3VhbOeVYwokRck8jQGsiwec",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 361,
+            "vicinity": "115 E 57th St, New York"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.7157592,
+                    "lng": -74.007027
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.71715527989272,
+                        "lng": -74.00578272010726
+                    },
+                    "southwest": {
+                        "lat": 40.71445562010727,
+                        "lng": -74.00848237989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Akimoto Sushi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101055672221768290439\">John Leuenhagen</a>"
+                    ],
+                    "photo_reference": "ATtYBwLwIi8lRRfNzOHkHY0NGt6AIk9ee1ysEyeqBSNTARVHMRAufE1zQ1jw65-A17ZeU8IBu9QjaWAkxEMvQ8VAXjEHAsTFQ88mXu9iII_MVjjTQ3X6HDX3rUJyWV4Eggpb1JCF8IeG3IO2VjeMxf96NzzQmvcKkaiSE0PZtP03An6f6f7m",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJs8CmZR9awokR9acfG76cMKE",
+            "plus_code": {
+                "compound_code": "PX8V+85 New York, United States",
+                "global_code": "87G7PX8V+85"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJs8CmZR9awokR9acfG76cMKE",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_delivery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 116,
+            "vicinity": "187 Church St, New York"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.64178,
+                    "lng": -74.003741
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.64321357989272,
+                        "lng": -74.00230387010727
+                    },
+                    "southwest": {
+                        "lat": 40.64051392010728,
+                        "lng": -74.00500352989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Sushi Factory",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114964538134375308542\">Johnny Joseph</a>"
+                    ],
+                    "photo_reference": "ATtYBwKY8ss55uNZ_CXYRrrdLyUGLJr7u6kIKZ_P4EDPKldB6Xh59y7dmRRuKrzboEGiEXGjxZUdgw4rRu_FjRbwhrzn14o2ydpABKLh9Ub5O83sX14WWFc8AMSpzkzAu3g1XBOBg-EqjfkQkg0RoIlz989WmB0SlF_Rqd2aD2hThK9bRuDG",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJGUmc_8pawokRpvtTP_Nmut0",
+            "plus_code": {
+                "compound_code": "JXRW+PG Brooklyn, New York, United States",
+                "global_code": "87G7JXRW+PG"
+            },
+            "rating": 3.9,
+            "reference": "ChIJGUmc_8pawokRpvtTP_Nmut0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 160,
+            "vicinity": "772 49th St, Brooklyn"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.6062008,
+                    "lng": -73.96580949999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.60755062989271,
+                        "lng": -73.96445967010726
+                    },
+                    "southwest": {
+                        "lat": 40.60485097010726,
+                        "lng": -73.96715932989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Sushi Tokyo",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1179,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106022369009305968641\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATtYBwLMEgoczLh0BeSPtZZWkmXVSqi30t6sNRD6LSVdOMbtdBB-TRidLELuaVsaYGFK_JZ9TBcE78eXr5apWvuKpiWv-hfEB_VPOvu_JShB5aZ4VpLlS8QfdoZr_fhHzcCgRGEu1-t1-YNP7YQ5bb-5Kzf1-bl6u_jPpUPCQegLjRMPTpKI",
+                    "width": 1766
+                }
+            ],
+            "place_id": "ChIJ3TKScO5EwokRvl2VGzU-GP8",
+            "plus_code": {
+                "compound_code": "J24M+FM Brooklyn, New York, United States",
+                "global_code": "87G8J24M+FM"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJ3TKScO5EwokRvl2VGzU-GP8",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_delivery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 857,
+            "vicinity": "627 Kings Hwy, Brooklyn"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.7322378,
+                    "lng": -74.00088079999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.73353157989273,
+                        "lng": -73.99940112010728
+                    },
+                    "southwest": {
+                        "lat": 40.73083192010728,
+                        "lng": -74.00210077989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Sushi Katsuei",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111644518165064679706\">Julien Bourneuf</a>"
+                    ],
+                    "photo_reference": "ATtYBwIx95SnNej86nzelUd1bHzlUqB3_bn4gSJDH0EdWOEjsBlvH20IMtgpCNhtyE4jeUwJyluu6z5p7euXoPhJKCTFXN7BmVWgkoM5X3z8QW3M9z-otUZB2lYBzdWYr5pfFI3wxiq_SNAvJ539lJg2L9lAYBiEWVvWJhUFLQURlck22YFh",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJrfk945NZwokR09QPDJv66Rw",
+            "plus_code": {
+                "compound_code": "PXJX+VJ New York, United States",
+                "global_code": "87G7PXJX+VJ"
+            },
+            "price_level": 3,
+            "rating": 4.5,
+            "reference": "ChIJrfk945NZwokR09QPDJv66Rw",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 205,
+            "vicinity": "357 6th Ave, New York"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 40.7434882,
+                    "lng": -73.9958821
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.74487582989272,
+                        "lng": -73.99462267010729
+                    },
+                    "southwest": {
+                        "lat": 40.74217617010727,
+                        "lng": -73.99732232989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Hana Sushi",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115825594098378409079\">O V H</a>"
+                    ],
+                    "photo_reference": "ATtYBwIfC-Itdp-_V5l9KET2AfU7ZvQztXAeetCyJyJaRx5u8bJLdwTiZLqb6H0XK2v9rjHRtb9RlfQjedcihIIy7NiFFl5xf_O_NhIK0yLYdvzCazgxdbmUaCMevclVQXk91iEJIf5GRR-zhj8fjm9uh9dJL69aBJp2GF5_eoAgF0peMQJT",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJh24qP7tZwokROe-JFBhcnb0",
+            "plus_code": {
+                "compound_code": "P2V3+9J New York, United States",
+                "global_code": "87G8P2V3+9J"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJh24qP7tZwokROe-JFBhcnb0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 179,
+            "vicinity": "211 7th Ave, New York"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.7597076,
+                    "lng": -73.92028119999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.76101007989272,
+                        "lng": -73.91897537010728
+                    },
+                    "southwest": {
+                        "lat": 40.75831042010728,
+                        "lng": -73.92167502989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "name": "Bai Sushi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104692250972745291058\">Pia Vallero</a>"
+                    ],
+                    "photo_reference": "ATtYBwKFEqMZb4bxzSrwpm9K8du1LDYnfoChrgjThVcl1Ih_MmLqvtxZzHtA32BcoE22f4NYB3FoGOAoaT1rBqATzQkQXWx46YYW5eDgH1WHCx7OV-HZxXuLveXrwraBK2plkFksxTaDIxUfSV2DP4TxkCXcZ4Doe0nG5z4bH0zG85hBZz1Y",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJjdCEuDtfwokRlrAKrJvk8Yk",
+            "plus_code": {
+                "compound_code": "Q35H+VV New York, United States",
+                "global_code": "87G8Q35H+VV"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJjdCEuDtfwokRlrAKrJvk8Yk",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_delivery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 182,
+            "vicinity": "37-03 Broadway, Queens"
+        }
+    ],
+    "status": "OK"
+}
