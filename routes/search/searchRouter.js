@@ -9,5 +9,7 @@ router.get('/', function(req, res, next) {
 
 router.get('/near-by-search/:keyword', searchController.nearBySearch);
 
+router.get('/place-detail/:id', searchController.placeDetail);
+
 // router.post('/login', userController.login);
 module.exports = router;

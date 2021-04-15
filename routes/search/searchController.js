@@ -1,28 +1,44 @@
 const axios = require('axios')
 const sushiPlaces = require('../sushiPlaces.json')
+const SushiRyuseiDetail = require('../SushiRyuseiDetail.json')
 const key = process.env.GOOGLE_API_KEY
 
 module.exports = {
     nearBySearch: async (req, res) => {
         try {
-            // console.log('==================', req.query)
-            // const query = req.query
-            const parameters = {
-                key: process.env.GOOGLE_API_KEY,
-                // location: req.params.location,
-                location: '40.67,-73.95',
-                keyword: req.params.keyword,
-                radius: '1500',
-            }
-            const baseUrl = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
-            let response = await axios.get(baseUrl + new URLSearchParams(parameters))
-            res.status(200).send(response.data)
+            // // console.log('==================', req.query)
+            // const parameters = {
+            //     key: process.env.GOOGLE_API_KEY,
+            //     // location: req.params.location,
+            //     location: '40.67,-73.95',
+            //     keyword: req.params.keyword,
+            //     radius: '1500',
+            // }
+            // const baseUrl = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
+            // let response = await axios.get(baseUrl + new URLSearchParams(parameters))
+            // res.status(200).send(response.data)
+            res.status(200).send(sushiPlaces)
         }
         catch (err) {
             res.status(400).send(err)
         }
     },
 
+    placeDetail: async (req, res) => {
+        try {
+            // const baseUrl = 'https://maps.googleapis.com/maps/api/place/details/json?'
+            // const parameters = {
+            //     key: process.env.GOOGLE_API_KEY,
+            //     place_id: req.params.id,
+            //     fields: 'place_id,geometry,name,rating,vicinity,website,formatted_phone_number,url,types,reviews'
+            // }
+            // let response = await axios.get(baseUrl + new URLSearchParams(parameters))
+            // res.status(200).send(response.data)
+            res.status(200).send(SushiRyuseiDetail)
+        } catch (err) {
+            res.status(400).send(err)
+        }
+    }
 }
 
 
