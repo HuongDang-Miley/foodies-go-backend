@@ -1,0 +1,25 @@
+// const mongoose = require('mongoose');
+// const moment = require('moment');
+// const now = moment(); 
+
+// var PlaceSchema = new mongoose.Schema({
+//     username: {
+//         type: String, 
+//         trim: true,
+//         unique: true,
+//         required: true, 
+//         default: ''
+//     }, 
+//     email: {
+//         type: String, 
+//         trim: true, 
+//         unique: true, 
+//         require: true, 
+//         default: ''
+//     },
+//     password: { type: String, default: ''},
+//     timestamp: {type: String, default: now.format('dddd, MMMM Do YYYY, h:mm:ss a')},
+//     favList: {type: Array},
+// });
+
+// module.exports = mongoose.model('Place', PlaceSchema);

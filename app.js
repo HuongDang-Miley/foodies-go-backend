@@ -16,12 +16,14 @@ const mongooseOptions = {
   useCreateIndex: true,
   useFindAndModify: false
 }
+
 mongoose.connect(process.env.MONGODB_URI, mongooseOptions)
         .then(() => console.log('MONGODB CONNECTED'))
         .catch(err => console.log(err));
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users/users');
+var favRouter = require('./routes/favorites/favRouter');
 var searchRouter = require('./routes/search/searchRouter');
 
 var app = express();
@@ -40,6 +42,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/api', indexRouter);
 app.use('/api/users', usersRouter); 
+app.use('/api/favorites', favRouter); 
 app.use('/api/search', searchRouter); 
 // app.listen(4000, () => console.log('Backend on port 4000'))
 

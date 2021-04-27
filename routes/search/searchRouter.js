@@ -7,7 +7,8 @@ router.get('/', function(req, res, next) {
   res.send('respond with a resource from Search Route');
 });
 
-router.get('/near-by-search/:keyword', searchController.nearBySearch);
+// router.get('/near-by-search/:keyword', searchController.nearBySearch);
+router.get('/near-by-search', searchController.nearBySearch);
 
 router.get('/place-detail/:id', searchController.placeDetail);
 

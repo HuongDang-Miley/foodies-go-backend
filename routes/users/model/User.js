@@ -18,7 +18,8 @@ var UserSchema = new mongoose.Schema({
         default: ''
     },
     password: { type: String, default: ''},
-    timestamp: {type: String, default: now.format('dddd, MMMM Do YYYY, h:mm:ss a')}
+    timestamp: {type: String, default: now.format('dddd, MMMM Do YYYY, h:mm:ss a')},
+    favList: {type: Array},
 });
 
 module.exports = mongoose.model('User', UserSchema);

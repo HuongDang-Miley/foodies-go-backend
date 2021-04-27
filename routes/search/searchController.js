@@ -1,23 +1,28 @@
 const axios = require('axios')
 const sushiPlaces = require('../sushiPlaces.json')
-const SushiRyuseiDetail = require('../SushiRyuseiDetail.json')
+const placeDetail = require('../placeDetail.json')
+const sushiLounge = require('../sushiLounge.json')
 const key = process.env.GOOGLE_API_KEY
 
 module.exports = {
     nearBySearch: async (req, res) => {
+        // console.clear()
+        // console.log('=====================================keyword', req.query.keyword)
+        // console.log('=====================================location', req.query.location)
+
         try {
-            // // console.log('==================', req.query)
-            // const parameters = {
-            //     key: process.env.GOOGLE_API_KEY,
-            //     // location: req.params.location,
-            //     location: '40.67,-73.95',
-            //     keyword: req.params.keyword,
-            //     radius: '1500',
-            // }
-            // const baseUrl = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
-            // let response = await axios.get(baseUrl + new URLSearchParams(parameters))
-            // res.status(200).send(response.data)
-            res.status(200).send(sushiPlaces)
+            // console.log('==================', req.query)
+            const parameters = {
+                key: process.env.GOOGLE_API_KEY,
+                location: req.query.location,
+                // location: '40.67,-73.95',
+                keyword: req.query.keyword,
+                radius: '2000',
+            }
+            const baseUrl = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
+            let response = await axios.get(baseUrl + new URLSearchParams(parameters))
+            res.status(200).send(response.data)
+            // res.status(200).send(sushiPlaces)
         }
         catch (err) {
             res.status(400).send(err)
@@ -30,11 +35,11 @@ module.exports = {
             // const parameters = {
             //     key: process.env.GOOGLE_API_KEY,
             //     place_id: req.params.id,
-            //     fields: 'place_id,geometry,name,rating,vicinity,website,formatted_phone_number,url,types,reviews'
+            //     fields: 'place_id,geometry,name,rating,price_level,vicinity,website,formatted_phone_number,url,types,reviews'
             // }
             // let response = await axios.get(baseUrl + new URLSearchParams(parameters))
             // res.status(200).send(response.data)
-            res.status(200).send(SushiRyuseiDetail)
+            res.status(200).send(sushiLounge)
         } catch (err) {
             res.status(400).send(err)
         }
