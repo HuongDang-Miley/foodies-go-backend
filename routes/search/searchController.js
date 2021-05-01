@@ -35,7 +35,7 @@ module.exports = {
             const parameters = {
                 key: process.env.GOOGLE_API_KEY,
                 place_id: req.params.id,
-                fields: 'place_id,geometry,name,rating,price_level,vicinity,website,formatted_phone_number,url,types,reviews'
+                fields: 'business_status,name,place_id,geometry,rating,price_level,formatted_phone_number,website,url,vicinity,types,reviews,opening_hours'
             }
             let response = await axios.get(baseUrl + new URLSearchParams(parameters))
             res.status(200).send(response.data)
