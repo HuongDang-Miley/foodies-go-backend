@@ -27,14 +27,25 @@ module.exports = {
     login: async (req, res) => {
         try {
             let foundUser = await findOneUser(req.body.email);
+            console.clear()
+            console.log('============================================= foundUser ', foundUser)
             if (foundUser === 404) {
+                res.send({
+                    status: 500,
+                    message: 'User not found, please try again or sign up'
+                })
                 throw {
                     status: 500,
                     message: 'User not found, please sign up'
                 }
+
             }
             let comparedPassword = await comparePassword(req.body.password, foundUser.password);
             if (comparedPassword === 409) {
+                res.send({
+                    status: 500,
+                    message: 'Check your email and password'
+                })
                 throw {
                     status: 409,
                     message: 'Check your email and password'
@@ -46,9 +57,9 @@ module.exports = {
             });
 
         } catch (error) {
-            res.status(error.status).json({
-                message: error.message
-            })
+            res.status(error.status)
+                // .json({message: error.message})
+                .send({ message: error.message })
         }
 
     }

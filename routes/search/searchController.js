@@ -11,18 +11,18 @@ module.exports = {
         // console.log('=====================================location', req.query.location)
 
         try {
-            // // console.log('==================', req.query)
-            // const parameters = {
-            //     key: process.env.GOOGLE_API_KEY,
-            //     location: req.query.location,
-            //     // location: '40.67,-73.95',
-            //     keyword: req.query.keyword,
-            //     radius: '2000',
-            // }
-            // const baseUrl = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
-            // let response = await axios.get(baseUrl + new URLSearchParams(parameters))
-            // res.status(200).send(response.data)
-            res.status(200).send(sushiPlaces)
+            // console.log('==================', req.query)
+            const parameters = {
+                key: process.env.GOOGLE_API_KEY,
+                location: req.query.location,
+                // location: '40.67,-73.95',
+                keyword: req.query.keyword,
+                radius: '2000',
+            }
+            const baseUrl = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
+            let response = await axios.get(baseUrl + new URLSearchParams(parameters))
+            res.status(200).send(response.data)
+            // res.status(200).send(sushiPlaces)
         }
         catch (err) {
             res.status(400).send(err)
@@ -31,15 +31,15 @@ module.exports = {
 
     placeDetail: async (req, res) => {
         try {
-            // const baseUrl = 'https://maps.googleapis.com/maps/api/place/details/json?'
-            // const parameters = {
-            //     key: process.env.GOOGLE_API_KEY,
-            //     place_id: req.params.id,
-            //     fields: 'place_id,geometry,name,rating,price_level,vicinity,website,formatted_phone_number,url,types,reviews'
-            // }
-            // let response = await axios.get(baseUrl + new URLSearchParams(parameters))
-            // res.status(200).send(response.data)
-            res.status(200).send(sushiLounge)
+            const baseUrl = 'https://maps.googleapis.com/maps/api/place/details/json?'
+            const parameters = {
+                key: process.env.GOOGLE_API_KEY,
+                place_id: req.params.id,
+                fields: 'place_id,geometry,name,rating,price_level,vicinity,website,formatted_phone_number,url,types,reviews'
+            }
+            let response = await axios.get(baseUrl + new URLSearchParams(parameters))
+            res.status(200).send(response.data)
+            // res.status(200).send(sushiLounge)
         } catch (err) {
             res.status(400).send(err)
         }
