@@ -1,6 +1,7 @@
 {
     "html_attributions": [],
     "result": {
+        "business_status": "OPERATIONAL",
         "formatted_phone_number": "(212) 983-8880",
         "geometry": {
             "location": {
@@ -19,6 +20,80 @@
             }
         },
         "name": "Sushi Ryusei",
+        "opening_hours": {
+            "open_now": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1700"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: Closed",
+                "Tuesday: 5:00 – 9:00 PM",
+                "Wednesday: 5:00 – 9:00 PM",
+                "Thursday: 5:00 – 9:00 PM",
+                "Friday: 5:00 – 10:00 PM",
+                "Saturday: 5:00 – 10:00 PM",
+                "Sunday: 5:00 – 9:00 PM"
+            ]
+        },
         "place_id": "ChIJqTLS3nJZwokRGdkiM6Hj-BU",
         "rating": 4.7,
         "reviews": [
@@ -26,11 +101,21 @@
                 "author_name": "Megan Flotten",
                 "author_url": "https://www.google.com/maps/contrib/116400911234305202979/reviews",
                 "language": "en",
-                "profile_photo_url": "https://lh6.googleusercontent.com/-sGrN7uNHtwU/AAAAAAAAAAI/AAAAAAAABEE/AMZuucmToKZQD8aBi-2bB7o4XPH3QXERLQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxowTt21x_1rpFdSOkSJRMvE1eAWfCe40Z4QYADLg=s128-c0x00000000-cc-rp-mo",
                 "rating": 5,
-                "relative_time_description": "a month ago",
+                "relative_time_description": "2 months ago",
                 "text": "Absolutely loved the food here. Super fresh fish. I’m very particular about sushi and this place hit the mark on each dish.\nWe ate outside in an enclosed tent that could fit four people. It had a heater to keep us warm as well.\nService was very attentive.\nWill definitely come back.",
                 "time": 1613786163
+            },
+            {
+                "author_name": "George X",
+                "author_url": "https://www.google.com/maps/contrib/110801506225410225082/reviews",
+                "language": "en",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxjxxQGuLhKB2Bs9pMjmJE_kmnKcbkhobTud7fj=s128-c0x00000000-cc-rp-mo",
+                "rating": 5,
+                "relative_time_description": "a week ago",
+                "text": "Stopped here off-the-cuff for some dinner....did not regret it! Sashimi was fresh and delicious, staff was great. Check it out!",
+                "time": 1618704652
             },
             {
                 "author_name": "Yohan Kim",
@@ -48,7 +133,7 @@
                 "language": "en",
                 "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Gh-rO4ugii8I8PyaPeny2lrUsyREqMKM46wgnLhug=s128-c0x00000000-cc-rp-mo-ba4",
                 "rating": 2,
-                "relative_time_description": "6 months ago",
+                "relative_time_description": "7 months ago",
                 "text": "Nice outdoor setting on noisy block. Lots of honking cars and trucks passing by. Sushi Somewhat tasteless not delicious or memorable flavors. Soggy salmon and bland tasting eel.!Service was not very attentive. Finally, by the end of our meals we were able to get a glass of water.",
                 "time": 1601603822
             },
@@ -56,21 +141,11 @@
                 "author_name": "Diana Golubkova",
                 "author_url": "https://www.google.com/maps/contrib/104429338391209705647/reviews",
                 "language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/-EejJVQIhr5U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckTppeg8KI-goMIpLgJ0cabsUc5gA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJzQ3rZ9w3fgljIxvG9Oh-nmGBIqr9Gb8qBda4Ne=s128-c0x00000000-cc-rp-mo",
                 "rating": 5,
-                "relative_time_description": "5 months ago",
+                "relative_time_description": "6 months ago",
                 "text": "The best sushi in the city. All fish is incredibly fresh, excellent taste combination. Very attentive staff, great service! It is our favorite place on special events.",
                 "time": 1603311610
-            },
-            {
-                "author_name": "Camden Farmer",
-                "author_url": "https://www.google.com/maps/contrib/101557704574941062254/reviews",
-                "language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GhRI53h16XZ0-zDUTHivMNYDV9FlblBYml-9ENu=s128-c0x00000000-cc-rp-mo-ba3",
-                "rating": 5,
-                "relative_time_description": "5 months ago",
-                "text": "The place offers a great range of delicious food. I loved dining here. The employees are always kind, prices are fair and the place is always clean.",
-                "time": 1604965804
             }
         ],
         "types": [

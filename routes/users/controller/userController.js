@@ -31,11 +31,11 @@ module.exports = {
             console.log('============================================= foundUser ', foundUser)
             if (foundUser === 404) {
                 res.send({
-                    status: 500,
+                    status: 404,
                     message: 'User not found, please try again or sign up'
                 })
                 throw {
-                    status: 500,
+                    status: 404,
                     message: 'User not found, please sign up'
                 }
 
@@ -43,8 +43,8 @@ module.exports = {
             let comparedPassword = await comparePassword(req.body.password, foundUser.password);
             if (comparedPassword === 409) {
                 res.send({
-                    status: 500,
-                    message: 'Check your email and password'
+                    status: 409,
+                    message: 'Password incorrect, try again'
                 })
                 throw {
                     status: 409,

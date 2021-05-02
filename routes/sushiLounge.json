@@ -1,6 +1,7 @@
 {
     "html_attributions": [],
     "result": {
+        "business_status": "OPERATIONAL",
         "formatted_phone_number": "(201) 386-1117",
         "geometry": {
             "location": {
@@ -20,7 +21,7 @@
         },
         "name": "Sushi Lounge",
         "opening_hours": {
-            "open_now": false,
+            "open_now": true,
             "periods": [
                 {
                     "close": {
@@ -103,88 +104,6 @@
                 "Sunday: 12:00 – 10:00 PM"
             ]
         },
-        "photos": [
-            {
-                "height": 2882,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111227285226112164234\">Melody de Castro</a>"
-                ],
-                "photo_reference": "ATtYBwL2_JkPIsZZSw1_1niWLsVHZ4pFS7NgokGJurxVKGuPD9i42tF_TehlRlYBDc00oCoM_YOoihUIxpW963zptLCLYmkpEUmiVbXy_esA3iVuge794a04dqGorCi-Hup5q6zqBW0cfniK0aQyvcj-gdza4xzgXB0izfX2zTSO-QBeAG7l",
-                "width": 3843
-            },
-            {
-                "height": 611,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/100947359012498944292\">Sushi Lounge</a>"
-                ],
-                "photo_reference": "ATtYBwIgy8exusRaXHlEXRmE49zSzxFjtX250h0A5wsGHnFRsjH5keSUZWdIyHCvmLxJW323AotZwctxVpNnuRPsaKlm59udezRG4n2ZrtjnksRhiPl28utnGDx5eADBhD9eZmVhqPDUSPXM3u6nF2KMXYuMKP-QbFdDJuHnAYWRn8gUnncN",
-                "width": 612
-            },
-            {
-                "height": 341,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/100947359012498944292\">Sushi Lounge</a>"
-                ],
-                "photo_reference": "ATtYBwLXIUT04nz9Gq2p4mrJB5zpW1JjCDEcD7QXCzAR_8WVvpokRJFkDD-Db7XHwx2Fe9IFKkysqr7qCQTmrhJj5khrUb0RaGbffQSRjog8oQePOg7e-cajwIDMIkPpIgcGTBXak8ZsVqrTHhRGdQxVQCuQyq6lgUIA9MstYHPkM_0B92-b",
-                "width": 486
-            },
-            {
-                "height": 4032,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/101550933554643105938\">H.C. Laughlin</a>"
-                ],
-                "photo_reference": "ATtYBwLnxLzZ38ecaosPAR4FBPvge2MofR6wbS0ALBTrAw5d3z6i3GTaz5XyuT_IN7CZYIcwEFp8j_tJ4UK9oo1CXRMk1jjrhQPHIkSCGUEEMPU4FdsvpEyYm7mb8AbX_YQxiTNqFHjIn9_kyW27axVy3DGeaPeXgge0fW9iX11_zdO5yoWj",
-                "width": 3024
-            },
-            {
-                "height": 3961,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111227285226112164234\">Melody de Castro</a>"
-                ],
-                "photo_reference": "ATtYBwL-AX3LulB8og4bLQ4Lx1B2ATRB4_eoOp5sID9zZWHjMz3dJV1jVqfVoqfnMrKLld9Hcd4aYZGOr7-DbTiKLVgffA09B2xc_uwthKxk4PTzSYiY7-D8sAvaEeQVwy_8NbWok3vftJPfTSBFeviFa_kRwiQ_ZBWnZwCwLulZJ5OStURx",
-                "width": 2970
-            },
-            {
-                "height": 2788,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111227285226112164234\">Melody de Castro</a>"
-                ],
-                "photo_reference": "ATtYBwK1D29hBlDRV_PIFlHGAkK4PfCecyDQaZA8gXc8dt7zZxp4IFRx-8FCSo91y6IUvI2FAIsZPRrdJG1UI4tOI9oGDBwKk1btTlPC6APzNuovU6lQXkxXWtu_7Ud8RukxH1-0p_zvABvRkYw-ox416QvkoDhNBC2Jo4ciZlyGcPpu9Z8n",
-                "width": 3336
-            },
-            {
-                "height": 4032,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/114594474251142382434\">Eva Kuo</a>"
-                ],
-                "photo_reference": "ATtYBwJ9lYy263ya53wjMVQZwgZP76mDpXEIGbbcdw0TpirU8X3MkFPaVG-KNp39pIXsuun3bTRKXOucJ9DexJ57qVIllVKD1WfZrXd7dSKB1ooul1mL2XXeZZPmCrhvF2F4xL-MdUQuz0wBHG9NkdoJRQcqCoh_I5VD_CXcAFXNHvK4Sc7d",
-                "width": 3024
-            },
-            {
-                "height": 721,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/108168885655852497766\">Hyeyoon Jung</a>"
-                ],
-                "photo_reference": "ATtYBwLofKTivHUuq5h-JgJ6tugVLswTQ3s5peb607iWL1QBzUFIdOLiVS8fa9RoSlqzkxa0qF5XTzpI4xbyJ6iBIHoJ96LcLUQBzBhysRaiEVZSfa-2dtjkjZExkNnHoY6oTwJBj0oBk4e9pz9iri24jWL-gi_xFT5nfezYOubuItcwoc81",
-                "width": 960
-            },
-            {
-                "height": 2451,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111227285226112164234\">Melody de Castro</a>"
-                ],
-                "photo_reference": "ATtYBwKL4Kyet3rswCobePOOQvJ_0IjZ8L3pLZys1NuQZoPf2GuA581ml5o36vNbO5L7o1bcbxDS3B2LByfsWW3kRtY1jxXJ-H876VUPwGNoQqXyq_KBe2XMYphzJVCfVRup3gy0gYSdqN6s0Dtq4q5cvl7JymmlGEWa2fVxIINkXvvxM1VV",
-                "width": 3813
-            },
-            {
-                "height": 4032,
-                "html_attributions": [
-                    "<a href=\"https://maps.google.com/maps/contrib/111227285226112164234\">Melody de Castro</a>"
-                ],
-                "photo_reference": "ATtYBwLtof8MZO-LWzo1mlplPuULf6so68NabnEd1Nrt0kGAfpD5oQBhxtU_5OwRzjycThfPj3XD5QGBApqJUEyV-hxeh2PnKPjVbWTl7Zr_XdAk2WUQavmsh8z9Q_STXqftNO8So2cbxeeO3mnm5eJgVfiVLX8ZkY20YAD-aWZJ4wpcXuPT",
-                "width": 3024
-            }
-        ],
         "place_id": "ChIJiw2E3OFZwokRO0K8w8WyomY",
         "price_level": 2,
         "rating": 4.2,
@@ -193,7 +112,7 @@
                 "author_name": "Daniela Monge",
                 "author_url": "https://www.google.com/maps/contrib/104689796453742542328/reviews",
                 "language": "en",
-                "profile_photo_url": "https://lh5.googleusercontent.com/-n57JlcUqMlk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucljM_39CpfMY_CqQle1yVRJF2UX5A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJxBspheQXEJcNAsEmLIqsseclg6cnTHEKX8h7S4=s128-c0x00000000-cc-rp-mo",
                 "rating": 3,
                 "relative_time_description": "in the last week",
                 "text": "Their pomegranate margarita was what kept me coming in (& their birds of paradise roll) but I recently visited them and I have no idea what the bartender made me. It was a completely different color and it didn’t even taste like a margarita. Other than that, staff is nice.",
@@ -213,9 +132,9 @@
                 "author_name": "santosh kumar",
                 "author_url": "https://www.google.com/maps/contrib/104920073729316335575/reviews",
                 "language": "en",
-                "profile_photo_url": "https://lh6.googleusercontent.com/-EV9Ipl-Aa5U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucliF5R1M7-264fzJUSW_G8yu7Pw8A/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJwQtQzgTKZnit9XOzzyrCwWijbdCqSvXhMSyhOZ=s128-c0x00000000-cc-rp-mo-ba3",
                 "rating": 5,
-                "relative_time_description": "3 weeks ago",
+                "relative_time_description": "a month ago",
                 "text": "Small cozy place. Enjoyed the food and ambiance. Prices are within the range. Food is fresh and tasty.",
                 "time": 1617289987
             },
@@ -223,21 +142,21 @@
                 "author_name": "Tiffany Rodriguez",
                 "author_url": "https://www.google.com/maps/contrib/115063014863781245079/reviews",
                 "language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/-pfGE7Dwov1Q/AAAAAAAAAAI/AAAAAAAAyMU/AMZuucmjCvCjxMO3dg0L_gjr8kInFdDdDg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJw-rgC0LWjCNSxyjJGHzfVIwkq7pAdXHu-PDHeMhtw=s128-c0x00000000-cc-rp-mo",
                 "rating": 5,
                 "relative_time_description": "3 months ago",
                 "text": "The Hibachi Style Cuisine was really good!\n\nThe fried rice was a bit salty but over all great. Have the friend calamari as your appetizer, you will not regret it!",
                 "time": 1611535088
             },
             {
-                "author_name": "We Moved",
-                "author_url": "https://www.google.com/maps/contrib/107729721243204143011/reviews",
+                "author_name": "Tanya Christian",
+                "author_url": "https://www.google.com/maps/contrib/116513770005651436827/reviews",
                 "language": "en",
-                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GgLRy2TJQjb0m88b1McAum3Vp28-kYVvHU4Pp8F=s128-c0x00000000-cc-rp-mo-ba2",
-                "rating": 4,
-                "relative_time_description": "a month ago",
-                "text": "Very good sushi... not the best drinks.. but  the food and service  are  amazing",
-                "time": 1616014686
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GjqP5kOHJ3J6UuCJxWEIvdpIAfocktz7d3-hF9G5iQ=s128-c0x00000000-cc-rp-mo-ba5",
+                "rating": 3,
+                "relative_time_description": "in the last week",
+                "text": "My first and last visit to Sushi Lounge was disappointing to put it nicely. While I want to believe the restaurant was simply having an off day, my experience was enough to lead me not return. From the time my guest and I checked in, things gradually went down hill. To start off, we were seated for more than 20 minutes before our waitress came to take our order, and that was after I walked inside and brought it to the attention of the host. I excused this because the wait staff was apologetic, and were kind enough to comp our 2 cocktails, but my issues didn't end there. My fiancé ordered the shrimp risotta and seemed to enjoy it, but I was disappointed that the shrimp was overcooked (read: tough). The second starter was calamari, and by far the worse dish we had that night. It was obvious from the rubbery/ extra chewy texture that the calamari was overcooked as well (it's even obvious from the photos). I brought it to the attention of my waiter who apologized and then removed the plate from the table. We proceeded to delve into our sushi rolls. Both of us ordered spicy rolls (one shrimp, one crab) but the spice wasn't at all evident. I was extremely underwhelmed. When the check came our waitress let us know that they took 30% off of the calamari starter. Though I didn't make a fuss, I do think it was in poor taste that they would remove the dish from our table (after only having a few bites) and not completely remove it from the tab, altogether. Every restaurant does customer service differently but I found that a bit crass on the restaurant's part. The truth is we were hoping to have a full meal (starters, rolls, and entrees) at the Sushi Lounge, but by the time we made it to the rolls, it was obvious we needed to cut our losses. This restaurant gets 3 stars overall because I want to believe the waitstaff did what was in their power to make it a pleasent dining experience. If I was judging food and drinks alone, it would have received a 2.",
+                "time": 1619746616
             }
         ],
         "types": [
