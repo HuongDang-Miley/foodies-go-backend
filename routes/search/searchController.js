@@ -6,9 +6,9 @@ const key = process.env.GOOGLE_API_KEY
 
 module.exports = {
     nearBySearch: async (req, res) => {
-        // console.clear()
         // console.log('=====================================keyword', req.query.keyword)
         // console.log('=====================================location', req.query.location)
+        // console.clear()
 
         try {
             // console.log('==================', req.query)
@@ -30,6 +30,8 @@ module.exports = {
     },
 
     placeDetail: async (req, res) => {
+        console.log('Place Detial=====================================keyword', req.params)
+        // console.log('=====================================location', req.query.location)
         try {
             const baseUrl = 'https://maps.googleapis.com/maps/api/place/details/json?'
             const parameters = {
