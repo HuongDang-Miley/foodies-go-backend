@@ -32,11 +32,11 @@ module.exports = {
             if (foundUser === 404) {
                 res.send({
                     status: 404,
-                    message: 'User not found, please try again or sign up'
+                    message: 'User not found, please try again or register'
                 })
                 throw {
                     status: 404,
-                    message: 'User not found, please sign up'
+                    message: 'User not found, please try again or register'
                 }
 
             }
@@ -48,7 +48,7 @@ module.exports = {
                 })
                 throw {
                     status: 409,
-                    message: 'Check your email and password'
+                    message: 'Password incorrect, try again'
                 }
             }
             let jwtToken = await createJwtToken(foundUser);
